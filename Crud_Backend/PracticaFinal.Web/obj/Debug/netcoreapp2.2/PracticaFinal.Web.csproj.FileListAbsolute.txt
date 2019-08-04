@@ -1,0 +1,133 @@
+E:\Servidor\PracticaFinal\PracticaFinal\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Web.deps.json
+E:\Servidor\PracticaFinal\PracticaFinal\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Web.runtimeconfig.json
+E:\Servidor\PracticaFinal\PracticaFinal\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Web.runtimeconfig.dev.json
+E:\Servidor\PracticaFinal\PracticaFinal\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Web.dll
+E:\Servidor\PracticaFinal\PracticaFinal\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.csprojAssemblyReference.cache
+E:\Servidor\PracticaFinal\PracticaFinal\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.csproj.CoreCompileInputs.cache
+E:\Servidor\PracticaFinal\PracticaFinal\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.RazorAssemblyInfo.cache
+E:\Servidor\PracticaFinal\PracticaFinal\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.RazorAssemblyInfo.cs
+E:\Servidor\PracticaFinal\PracticaFinal\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.AssemblyInfoInputs.cache
+E:\Servidor\PracticaFinal\PracticaFinal\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.AssemblyInfo.cs
+E:\Servidor\PracticaFinal\PracticaFinal\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.RazorTargetAssemblyInfo.cache
+E:\Servidor\PracticaFinal\PracticaFinal\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Web.pdb
+E:\Servidor\PracticaFinal\PracticaFinal\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Lib.DAL.dll
+E:\Servidor\PracticaFinal\PracticaFinal\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Lib.dll
+E:\Servidor\PracticaFinal\PracticaFinal\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Lib.DAL.pdb
+E:\Servidor\PracticaFinal\PracticaFinal\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Lib.pdb
+E:\Servidor\PracticaFinal\PracticaFinal\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.csproj.CopyComplete
+E:\Servidor\PracticaFinal\PracticaFinal\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.dll
+E:\Servidor\PracticaFinal\PracticaFinal\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.pdb
+C:\Users\A4ALUMNO\Desktop\PracticaFinal2\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Web.deps.json
+C:\Users\A4ALUMNO\Desktop\PracticaFinal2\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Web.runtimeconfig.json
+C:\Users\A4ALUMNO\Desktop\PracticaFinal2\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Web.runtimeconfig.dev.json
+C:\Users\A4ALUMNO\Desktop\PracticaFinal2\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Web.dll
+C:\Users\A4ALUMNO\Desktop\PracticaFinal2\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Web.pdb
+C:\Users\A4ALUMNO\Desktop\PracticaFinal2\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Lib.DAL.dll
+C:\Users\A4ALUMNO\Desktop\PracticaFinal2\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Lib.dll
+C:\Users\A4ALUMNO\Desktop\PracticaFinal2\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Lib.DAL.pdb
+C:\Users\A4ALUMNO\Desktop\PracticaFinal2\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Lib.pdb
+C:\Users\A4ALUMNO\Desktop\PracticaFinal2\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.csprojAssemblyReference.cache
+C:\Users\A4ALUMNO\Desktop\PracticaFinal2\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.csproj.CoreCompileInputs.cache
+C:\Users\A4ALUMNO\Desktop\PracticaFinal2\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.RazorAssemblyInfo.cache
+C:\Users\A4ALUMNO\Desktop\PracticaFinal2\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.RazorAssemblyInfo.cs
+C:\Users\A4ALUMNO\Desktop\PracticaFinal2\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.AssemblyInfoInputs.cache
+C:\Users\A4ALUMNO\Desktop\PracticaFinal2\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.AssemblyInfo.cs
+C:\Users\A4ALUMNO\Desktop\PracticaFinal2\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.RazorTargetAssemblyInfo.cache
+C:\Users\A4ALUMNO\Desktop\PracticaFinal2\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.csproj.CopyComplete
+C:\Users\A4ALUMNO\Desktop\PracticaFinal2\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.dll
+C:\Users\A4ALUMNO\Desktop\PracticaFinal2\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.pdb
+E:\Servidor\PracticaFinal\PracticaFinal2\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Web.deps.json
+E:\Servidor\PracticaFinal\PracticaFinal2\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Web.runtimeconfig.json
+E:\Servidor\PracticaFinal\PracticaFinal2\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Web.runtimeconfig.dev.json
+E:\Servidor\PracticaFinal\PracticaFinal2\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Web.dll
+E:\Servidor\PracticaFinal\PracticaFinal2\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Web.pdb
+E:\Servidor\PracticaFinal\PracticaFinal2\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Lib.DAL.dll
+E:\Servidor\PracticaFinal\PracticaFinal2\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Lib.dll
+E:\Servidor\PracticaFinal\PracticaFinal2\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Lib.DAL.pdb
+E:\Servidor\PracticaFinal\PracticaFinal2\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Lib.pdb
+E:\Servidor\PracticaFinal\PracticaFinal2\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.csprojAssemblyReference.cache
+E:\Servidor\PracticaFinal\PracticaFinal2\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.csproj.CoreCompileInputs.cache
+E:\Servidor\PracticaFinal\PracticaFinal2\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.RazorAssemblyInfo.cache
+E:\Servidor\PracticaFinal\PracticaFinal2\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.RazorAssemblyInfo.cs
+E:\Servidor\PracticaFinal\PracticaFinal2\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.AssemblyInfoInputs.cache
+E:\Servidor\PracticaFinal\PracticaFinal2\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.AssemblyInfo.cs
+E:\Servidor\PracticaFinal\PracticaFinal2\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.RazorTargetAssemblyInfo.cache
+E:\Servidor\PracticaFinal\PracticaFinal2\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.csproj.CopyComplete
+E:\Servidor\PracticaFinal\PracticaFinal2\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.dll
+E:\Servidor\PracticaFinal\PracticaFinal2\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.pdb
+C:\Users\A4ALUMNO\Desktop\PracticaFinal3\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Web.deps.json
+C:\Users\A4ALUMNO\Desktop\PracticaFinal3\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Web.runtimeconfig.json
+C:\Users\A4ALUMNO\Desktop\PracticaFinal3\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Web.runtimeconfig.dev.json
+C:\Users\A4ALUMNO\Desktop\PracticaFinal3\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Web.dll
+C:\Users\A4ALUMNO\Desktop\PracticaFinal3\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Web.pdb
+C:\Users\A4ALUMNO\Desktop\PracticaFinal3\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Lib.DAL.dll
+C:\Users\A4ALUMNO\Desktop\PracticaFinal3\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Lib.dll
+C:\Users\A4ALUMNO\Desktop\PracticaFinal3\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Lib.DAL.pdb
+C:\Users\A4ALUMNO\Desktop\PracticaFinal3\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Lib.pdb
+C:\Users\A4ALUMNO\Desktop\PracticaFinal3\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.csprojAssemblyReference.cache
+C:\Users\A4ALUMNO\Desktop\PracticaFinal3\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.csproj.CoreCompileInputs.cache
+C:\Users\A4ALUMNO\Desktop\PracticaFinal3\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.RazorAssemblyInfo.cache
+C:\Users\A4ALUMNO\Desktop\PracticaFinal3\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.RazorAssemblyInfo.cs
+C:\Users\A4ALUMNO\Desktop\PracticaFinal3\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.AssemblyInfoInputs.cache
+C:\Users\A4ALUMNO\Desktop\PracticaFinal3\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.AssemblyInfo.cs
+C:\Users\A4ALUMNO\Desktop\PracticaFinal3\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.RazorTargetAssemblyInfo.cache
+C:\Users\A4ALUMNO\Desktop\PracticaFinal3\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.csproj.CopyComplete
+C:\Users\A4ALUMNO\Desktop\PracticaFinal3\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.dll
+C:\Users\A4ALUMNO\Desktop\PracticaFinal3\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.pdb
+C:\Users\A4ALUMNO\Desktop\PracticaFinal4\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Web.deps.json
+C:\Users\A4ALUMNO\Desktop\PracticaFinal4\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Web.runtimeconfig.json
+C:\Users\A4ALUMNO\Desktop\PracticaFinal4\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Web.runtimeconfig.dev.json
+C:\Users\A4ALUMNO\Desktop\PracticaFinal4\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Web.dll
+C:\Users\A4ALUMNO\Desktop\PracticaFinal4\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Web.pdb
+C:\Users\A4ALUMNO\Desktop\PracticaFinal4\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Lib.DAL.dll
+C:\Users\A4ALUMNO\Desktop\PracticaFinal4\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Lib.dll
+C:\Users\A4ALUMNO\Desktop\PracticaFinal4\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Lib.DAL.pdb
+C:\Users\A4ALUMNO\Desktop\PracticaFinal4\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Lib.pdb
+C:\Users\A4ALUMNO\Desktop\PracticaFinal4\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.csprojAssemblyReference.cache
+C:\Users\A4ALUMNO\Desktop\PracticaFinal4\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.csproj.CoreCompileInputs.cache
+C:\Users\A4ALUMNO\Desktop\PracticaFinal4\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.RazorAssemblyInfo.cache
+C:\Users\A4ALUMNO\Desktop\PracticaFinal4\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.RazorAssemblyInfo.cs
+C:\Users\A4ALUMNO\Desktop\PracticaFinal4\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.AssemblyInfoInputs.cache
+C:\Users\A4ALUMNO\Desktop\PracticaFinal4\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.AssemblyInfo.cs
+C:\Users\A4ALUMNO\Desktop\PracticaFinal4\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.RazorTargetAssemblyInfo.cache
+C:\Users\A4ALUMNO\Desktop\PracticaFinal4\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.csproj.CopyComplete
+C:\Users\A4ALUMNO\Desktop\PracticaFinal4\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.dll
+C:\Users\A4ALUMNO\Desktop\PracticaFinal4\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.pdb
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal5\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.csprojAssemblyReference.cache
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal5\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal5\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.RazorAssemblyInfo.cache
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal5\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.RazorAssemblyInfo.cs
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal5\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.AssemblyInfoInputs.cache
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal5\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.AssemblyInfo.cs
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal5\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.dll
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal5\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.pdb
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal5\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Web.deps.json
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal5\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Web.runtimeconfig.json
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal5\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Web.runtimeconfig.dev.json
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal5\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Web.dll
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal5\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Web.pdb
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal5\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Lib.DAL.dll
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal5\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Lib.dll
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal5\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Lib.DAL.pdb
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal5\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Lib.pdb
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal5\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal5\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.csproj.CopyComplete
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Web.deps.json
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Web.runtimeconfig.json
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Web.runtimeconfig.dev.json
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Web.dll
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Web.pdb
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Lib.DAL.dll
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Lib.dll
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Lib.DAL.pdb
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal.Web\bin\Debug\netcoreapp2.2\PracticaFinal.Lib.pdb
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.csprojAssemblyReference.cache
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.RazorAssemblyInfo.cache
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.RazorAssemblyInfo.cs
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.AssemblyInfoInputs.cache
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.AssemblyInfo.cs
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.csproj.CopyComplete
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.dll
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal.Web\obj\Debug\netcoreapp2.2\PracticaFinal.Web.pdb

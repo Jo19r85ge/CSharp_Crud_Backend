@@ -1,0 +1,63 @@
+E:\Servidor\PracticaFinal\PracticaFinal\PracticaFinal.Lib\bin\Debug\netstandard2.0\PracticaFinal.Lib.deps.json
+E:\Servidor\PracticaFinal\PracticaFinal\PracticaFinal.Lib\bin\Debug\netstandard2.0\PracticaFinal.Lib.dll
+E:\Servidor\PracticaFinal\PracticaFinal\PracticaFinal.Lib\obj\Debug\netstandard2.0\PracticaFinal.Lib.csproj.CoreCompileInputs.cache
+E:\Servidor\PracticaFinal\PracticaFinal\PracticaFinal.Lib\obj\Debug\netstandard2.0\PracticaFinal.Lib.AssemblyInfoInputs.cache
+E:\Servidor\PracticaFinal\PracticaFinal\PracticaFinal.Lib\obj\Debug\netstandard2.0\PracticaFinal.Lib.AssemblyInfo.cs
+E:\Servidor\PracticaFinal\PracticaFinal\PracticaFinal.Lib\bin\Debug\netstandard2.0\PracticaFinal.Lib.pdb
+E:\Servidor\PracticaFinal\PracticaFinal\PracticaFinal.Lib\obj\Debug\netstandard2.0\PracticaFinal.Lib.dll
+E:\Servidor\PracticaFinal\PracticaFinal\PracticaFinal.Lib\obj\Debug\netstandard2.0\PracticaFinal.Lib.pdb
+E:\Servidor\PracticaFinal\PracticaFinal\PracticaFinal.Lib\obj\Debug\netstandard2.0\PracticaFinal.Lib.csprojAssemblyReference.cache
+C:\Users\A4ALUMNO\Desktop\PracticaFinal2\PracticaFinal.Lib\bin\Debug\netstandard2.0\PracticaFinal.Lib.deps.json
+C:\Users\A4ALUMNO\Desktop\PracticaFinal2\PracticaFinal.Lib\bin\Debug\netstandard2.0\PracticaFinal.Lib.dll
+C:\Users\A4ALUMNO\Desktop\PracticaFinal2\PracticaFinal.Lib\bin\Debug\netstandard2.0\PracticaFinal.Lib.pdb
+C:\Users\A4ALUMNO\Desktop\PracticaFinal2\PracticaFinal.Lib\obj\Debug\netstandard2.0\PracticaFinal.Lib.csprojAssemblyReference.cache
+C:\Users\A4ALUMNO\Desktop\PracticaFinal2\PracticaFinal.Lib\obj\Debug\netstandard2.0\PracticaFinal.Lib.csproj.CoreCompileInputs.cache
+C:\Users\A4ALUMNO\Desktop\PracticaFinal2\PracticaFinal.Lib\obj\Debug\netstandard2.0\PracticaFinal.Lib.AssemblyInfoInputs.cache
+C:\Users\A4ALUMNO\Desktop\PracticaFinal2\PracticaFinal.Lib\obj\Debug\netstandard2.0\PracticaFinal.Lib.AssemblyInfo.cs
+C:\Users\A4ALUMNO\Desktop\PracticaFinal2\PracticaFinal.Lib\obj\Debug\netstandard2.0\PracticaFinal.Lib.dll
+C:\Users\A4ALUMNO\Desktop\PracticaFinal2\PracticaFinal.Lib\obj\Debug\netstandard2.0\PracticaFinal.Lib.pdb
+E:\Servidor\PracticaFinal\PracticaFinal2\PracticaFinal.Lib\bin\Debug\netstandard2.0\PracticaFinal.Lib.deps.json
+E:\Servidor\PracticaFinal\PracticaFinal2\PracticaFinal.Lib\bin\Debug\netstandard2.0\PracticaFinal.Lib.dll
+E:\Servidor\PracticaFinal\PracticaFinal2\PracticaFinal.Lib\bin\Debug\netstandard2.0\PracticaFinal.Lib.pdb
+E:\Servidor\PracticaFinal\PracticaFinal2\PracticaFinal.Lib\obj\Debug\netstandard2.0\PracticaFinal.Lib.csprojAssemblyReference.cache
+E:\Servidor\PracticaFinal\PracticaFinal2\PracticaFinal.Lib\obj\Debug\netstandard2.0\PracticaFinal.Lib.csproj.CoreCompileInputs.cache
+E:\Servidor\PracticaFinal\PracticaFinal2\PracticaFinal.Lib\obj\Debug\netstandard2.0\PracticaFinal.Lib.AssemblyInfoInputs.cache
+E:\Servidor\PracticaFinal\PracticaFinal2\PracticaFinal.Lib\obj\Debug\netstandard2.0\PracticaFinal.Lib.AssemblyInfo.cs
+E:\Servidor\PracticaFinal\PracticaFinal2\PracticaFinal.Lib\obj\Debug\netstandard2.0\PracticaFinal.Lib.dll
+E:\Servidor\PracticaFinal\PracticaFinal2\PracticaFinal.Lib\obj\Debug\netstandard2.0\PracticaFinal.Lib.pdb
+C:\Users\A4ALUMNO\Desktop\PracticaFinal3\PracticaFinal.Lib\bin\Debug\netstandard2.0\PracticaFinal.Lib.deps.json
+C:\Users\A4ALUMNO\Desktop\PracticaFinal3\PracticaFinal.Lib\bin\Debug\netstandard2.0\PracticaFinal.Lib.dll
+C:\Users\A4ALUMNO\Desktop\PracticaFinal3\PracticaFinal.Lib\bin\Debug\netstandard2.0\PracticaFinal.Lib.pdb
+C:\Users\A4ALUMNO\Desktop\PracticaFinal3\PracticaFinal.Lib\obj\Debug\netstandard2.0\PracticaFinal.Lib.csprojAssemblyReference.cache
+C:\Users\A4ALUMNO\Desktop\PracticaFinal3\PracticaFinal.Lib\obj\Debug\netstandard2.0\PracticaFinal.Lib.csproj.CoreCompileInputs.cache
+C:\Users\A4ALUMNO\Desktop\PracticaFinal3\PracticaFinal.Lib\obj\Debug\netstandard2.0\PracticaFinal.Lib.AssemblyInfoInputs.cache
+C:\Users\A4ALUMNO\Desktop\PracticaFinal3\PracticaFinal.Lib\obj\Debug\netstandard2.0\PracticaFinal.Lib.AssemblyInfo.cs
+C:\Users\A4ALUMNO\Desktop\PracticaFinal3\PracticaFinal.Lib\obj\Debug\netstandard2.0\PracticaFinal.Lib.dll
+C:\Users\A4ALUMNO\Desktop\PracticaFinal3\PracticaFinal.Lib\obj\Debug\netstandard2.0\PracticaFinal.Lib.pdb
+C:\Users\A4ALUMNO\Desktop\PracticaFinal4\PracticaFinal.Lib\bin\Debug\netstandard2.0\PracticaFinal.Lib.deps.json
+C:\Users\A4ALUMNO\Desktop\PracticaFinal4\PracticaFinal.Lib\bin\Debug\netstandard2.0\PracticaFinal.Lib.dll
+C:\Users\A4ALUMNO\Desktop\PracticaFinal4\PracticaFinal.Lib\bin\Debug\netstandard2.0\PracticaFinal.Lib.pdb
+C:\Users\A4ALUMNO\Desktop\PracticaFinal4\PracticaFinal.Lib\obj\Debug\netstandard2.0\PracticaFinal.Lib.csprojAssemblyReference.cache
+C:\Users\A4ALUMNO\Desktop\PracticaFinal4\PracticaFinal.Lib\obj\Debug\netstandard2.0\PracticaFinal.Lib.csproj.CoreCompileInputs.cache
+C:\Users\A4ALUMNO\Desktop\PracticaFinal4\PracticaFinal.Lib\obj\Debug\netstandard2.0\PracticaFinal.Lib.AssemblyInfoInputs.cache
+C:\Users\A4ALUMNO\Desktop\PracticaFinal4\PracticaFinal.Lib\obj\Debug\netstandard2.0\PracticaFinal.Lib.AssemblyInfo.cs
+C:\Users\A4ALUMNO\Desktop\PracticaFinal4\PracticaFinal.Lib\obj\Debug\netstandard2.0\PracticaFinal.Lib.dll
+C:\Users\A4ALUMNO\Desktop\PracticaFinal4\PracticaFinal.Lib\obj\Debug\netstandard2.0\PracticaFinal.Lib.pdb
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal5\PracticaFinal.Lib\bin\Debug\netstandard2.0\PracticaFinal.Lib.deps.json
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal5\PracticaFinal.Lib\bin\Debug\netstandard2.0\PracticaFinal.Lib.dll
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal5\PracticaFinal.Lib\bin\Debug\netstandard2.0\PracticaFinal.Lib.pdb
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal5\PracticaFinal.Lib\obj\Debug\netstandard2.0\PracticaFinal.Lib.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal5\PracticaFinal.Lib\obj\Debug\netstandard2.0\PracticaFinal.Lib.AssemblyInfoInputs.cache
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal5\PracticaFinal.Lib\obj\Debug\netstandard2.0\PracticaFinal.Lib.AssemblyInfo.cs
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal5\PracticaFinal.Lib\obj\Debug\netstandard2.0\PracticaFinal.Lib.dll
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal5\PracticaFinal.Lib\obj\Debug\netstandard2.0\PracticaFinal.Lib.pdb
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal5\PracticaFinal.Lib\obj\Debug\netstandard2.0\PracticaFinal.Lib.csprojAssemblyReference.cache
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal.Lib\bin\Debug\netstandard2.0\PracticaFinal.Lib.deps.json
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal.Lib\bin\Debug\netstandard2.0\PracticaFinal.Lib.dll
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal.Lib\bin\Debug\netstandard2.0\PracticaFinal.Lib.pdb
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal.Lib\obj\Debug\netstandard2.0\PracticaFinal.Lib.csprojAssemblyReference.cache
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal.Lib\obj\Debug\netstandard2.0\PracticaFinal.Lib.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal.Lib\obj\Debug\netstandard2.0\PracticaFinal.Lib.AssemblyInfoInputs.cache
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal.Lib\obj\Debug\netstandard2.0\PracticaFinal.Lib.AssemblyInfo.cs
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal.Lib\obj\Debug\netstandard2.0\PracticaFinal.Lib.dll
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal.Lib\obj\Debug\netstandard2.0\PracticaFinal.Lib.pdb

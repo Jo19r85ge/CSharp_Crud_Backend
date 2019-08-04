@@ -1,0 +1,84 @@
+E:\Servidor\PracticaFinal\PracticaFinal\PracticaFinal.Lib.DAL\bin\Debug\netstandard2.0\PracticaFinal.Lib.DAL.deps.json
+E:\Servidor\PracticaFinal\PracticaFinal\PracticaFinal.Lib.DAL\bin\Debug\netstandard2.0\PracticaFinal.Lib.DAL.dll
+E:\Servidor\PracticaFinal\PracticaFinal\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.csprojAssemblyReference.cache
+E:\Servidor\PracticaFinal\PracticaFinal\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.csproj.CoreCompileInputs.cache
+E:\Servidor\PracticaFinal\PracticaFinal\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.AssemblyInfoInputs.cache
+E:\Servidor\PracticaFinal\PracticaFinal\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.AssemblyInfo.cs
+E:\Servidor\PracticaFinal\PracticaFinal\PracticaFinal.Lib.DAL\bin\Debug\netstandard2.0\PracticaFinal.Lib.DAL.pdb
+E:\Servidor\PracticaFinal\PracticaFinal\PracticaFinal.Lib.DAL\bin\Debug\netstandard2.0\PracticaFinal.Lib.dll
+E:\Servidor\PracticaFinal\PracticaFinal\PracticaFinal.Lib.DAL\bin\Debug\netstandard2.0\PracticaFinal.Lib.pdb
+E:\Servidor\PracticaFinal\PracticaFinal\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.csproj.CopyComplete
+E:\Servidor\PracticaFinal\PracticaFinal\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.dll
+E:\Servidor\PracticaFinal\PracticaFinal\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.pdb
+C:\Users\A4ALUMNO\Desktop\PracticaFinal2\PracticaFinal.Lib.DAL\bin\Debug\netstandard2.0\PracticaFinal.Lib.DAL.deps.json
+C:\Users\A4ALUMNO\Desktop\PracticaFinal2\PracticaFinal.Lib.DAL\bin\Debug\netstandard2.0\PracticaFinal.Lib.DAL.dll
+C:\Users\A4ALUMNO\Desktop\PracticaFinal2\PracticaFinal.Lib.DAL\bin\Debug\netstandard2.0\PracticaFinal.Lib.DAL.pdb
+C:\Users\A4ALUMNO\Desktop\PracticaFinal2\PracticaFinal.Lib.DAL\bin\Debug\netstandard2.0\PracticaFinal.Lib.dll
+C:\Users\A4ALUMNO\Desktop\PracticaFinal2\PracticaFinal.Lib.DAL\bin\Debug\netstandard2.0\PracticaFinal.Lib.pdb
+C:\Users\A4ALUMNO\Desktop\PracticaFinal2\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.csprojAssemblyReference.cache
+C:\Users\A4ALUMNO\Desktop\PracticaFinal2\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.csproj.CoreCompileInputs.cache
+C:\Users\A4ALUMNO\Desktop\PracticaFinal2\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.AssemblyInfoInputs.cache
+C:\Users\A4ALUMNO\Desktop\PracticaFinal2\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.AssemblyInfo.cs
+C:\Users\A4ALUMNO\Desktop\PracticaFinal2\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.csproj.CopyComplete
+C:\Users\A4ALUMNO\Desktop\PracticaFinal2\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.dll
+C:\Users\A4ALUMNO\Desktop\PracticaFinal2\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.pdb
+E:\Servidor\PracticaFinal\PracticaFinal2\PracticaFinal.Lib.DAL\bin\Debug\netstandard2.0\PracticaFinal.Lib.DAL.deps.json
+E:\Servidor\PracticaFinal\PracticaFinal2\PracticaFinal.Lib.DAL\bin\Debug\netstandard2.0\PracticaFinal.Lib.DAL.dll
+E:\Servidor\PracticaFinal\PracticaFinal2\PracticaFinal.Lib.DAL\bin\Debug\netstandard2.0\PracticaFinal.Lib.DAL.pdb
+E:\Servidor\PracticaFinal\PracticaFinal2\PracticaFinal.Lib.DAL\bin\Debug\netstandard2.0\PracticaFinal.Lib.dll
+E:\Servidor\PracticaFinal\PracticaFinal2\PracticaFinal.Lib.DAL\bin\Debug\netstandard2.0\PracticaFinal.Lib.pdb
+E:\Servidor\PracticaFinal\PracticaFinal2\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.csprojAssemblyReference.cache
+E:\Servidor\PracticaFinal\PracticaFinal2\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.csproj.CoreCompileInputs.cache
+E:\Servidor\PracticaFinal\PracticaFinal2\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.AssemblyInfoInputs.cache
+E:\Servidor\PracticaFinal\PracticaFinal2\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.AssemblyInfo.cs
+E:\Servidor\PracticaFinal\PracticaFinal2\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.csproj.CopyComplete
+E:\Servidor\PracticaFinal\PracticaFinal2\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.dll
+E:\Servidor\PracticaFinal\PracticaFinal2\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.pdb
+C:\Users\A4ALUMNO\Desktop\PracticaFinal3\PracticaFinal.Lib.DAL\bin\Debug\netstandard2.0\PracticaFinal.Lib.DAL.deps.json
+C:\Users\A4ALUMNO\Desktop\PracticaFinal3\PracticaFinal.Lib.DAL\bin\Debug\netstandard2.0\PracticaFinal.Lib.DAL.dll
+C:\Users\A4ALUMNO\Desktop\PracticaFinal3\PracticaFinal.Lib.DAL\bin\Debug\netstandard2.0\PracticaFinal.Lib.DAL.pdb
+C:\Users\A4ALUMNO\Desktop\PracticaFinal3\PracticaFinal.Lib.DAL\bin\Debug\netstandard2.0\PracticaFinal.Lib.dll
+C:\Users\A4ALUMNO\Desktop\PracticaFinal3\PracticaFinal.Lib.DAL\bin\Debug\netstandard2.0\PracticaFinal.Lib.pdb
+C:\Users\A4ALUMNO\Desktop\PracticaFinal3\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.csprojAssemblyReference.cache
+C:\Users\A4ALUMNO\Desktop\PracticaFinal3\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.csproj.CoreCompileInputs.cache
+C:\Users\A4ALUMNO\Desktop\PracticaFinal3\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.AssemblyInfoInputs.cache
+C:\Users\A4ALUMNO\Desktop\PracticaFinal3\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.AssemblyInfo.cs
+C:\Users\A4ALUMNO\Desktop\PracticaFinal3\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.csproj.CopyComplete
+C:\Users\A4ALUMNO\Desktop\PracticaFinal3\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.dll
+C:\Users\A4ALUMNO\Desktop\PracticaFinal3\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.pdb
+C:\Users\A4ALUMNO\Desktop\PracticaFinal4\PracticaFinal.Lib.DAL\bin\Debug\netstandard2.0\PracticaFinal.Lib.DAL.deps.json
+C:\Users\A4ALUMNO\Desktop\PracticaFinal4\PracticaFinal.Lib.DAL\bin\Debug\netstandard2.0\PracticaFinal.Lib.DAL.dll
+C:\Users\A4ALUMNO\Desktop\PracticaFinal4\PracticaFinal.Lib.DAL\bin\Debug\netstandard2.0\PracticaFinal.Lib.DAL.pdb
+C:\Users\A4ALUMNO\Desktop\PracticaFinal4\PracticaFinal.Lib.DAL\bin\Debug\netstandard2.0\PracticaFinal.Lib.dll
+C:\Users\A4ALUMNO\Desktop\PracticaFinal4\PracticaFinal.Lib.DAL\bin\Debug\netstandard2.0\PracticaFinal.Lib.pdb
+C:\Users\A4ALUMNO\Desktop\PracticaFinal4\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.csprojAssemblyReference.cache
+C:\Users\A4ALUMNO\Desktop\PracticaFinal4\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.csproj.CoreCompileInputs.cache
+C:\Users\A4ALUMNO\Desktop\PracticaFinal4\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.AssemblyInfoInputs.cache
+C:\Users\A4ALUMNO\Desktop\PracticaFinal4\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.AssemblyInfo.cs
+C:\Users\A4ALUMNO\Desktop\PracticaFinal4\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.csproj.CopyComplete
+C:\Users\A4ALUMNO\Desktop\PracticaFinal4\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.dll
+C:\Users\A4ALUMNO\Desktop\PracticaFinal4\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.pdb
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal5\PracticaFinal.Lib.DAL\bin\Debug\netstandard2.0\PracticaFinal.Lib.DAL.deps.json
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal5\PracticaFinal.Lib.DAL\bin\Debug\netstandard2.0\PracticaFinal.Lib.DAL.dll
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal5\PracticaFinal.Lib.DAL\bin\Debug\netstandard2.0\PracticaFinal.Lib.DAL.pdb
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal5\PracticaFinal.Lib.DAL\bin\Debug\netstandard2.0\PracticaFinal.Lib.dll
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal5\PracticaFinal.Lib.DAL\bin\Debug\netstandard2.0\PracticaFinal.Lib.pdb
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal5\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.csprojAssemblyReference.cache
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal5\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal5\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.AssemblyInfoInputs.cache
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal5\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.AssemblyInfo.cs
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal5\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.csproj.CopyComplete
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal5\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.dll
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal5\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.pdb
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal.Lib.DAL\bin\Debug\netstandard2.0\PracticaFinal.Lib.DAL.deps.json
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal.Lib.DAL\bin\Debug\netstandard2.0\PracticaFinal.Lib.DAL.dll
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal.Lib.DAL\bin\Debug\netstandard2.0\PracticaFinal.Lib.DAL.pdb
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal.Lib.DAL\bin\Debug\netstandard2.0\PracticaFinal.Lib.dll
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal.Lib.DAL\bin\Debug\netstandard2.0\PracticaFinal.Lib.pdb
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.csprojAssemblyReference.cache
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.AssemblyInfoInputs.cache
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.AssemblyInfo.cs
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.csproj.CopyComplete
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.dll
+C:\Users\Jorge\Desktop\Repo GitHub\Crud_Backend\PracticaFinal.Lib.DAL\obj\Debug\netstandard2.0\PracticaFinal.Lib.DAL.pdb
