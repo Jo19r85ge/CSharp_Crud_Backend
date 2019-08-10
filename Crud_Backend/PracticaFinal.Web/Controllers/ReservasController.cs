@@ -24,6 +24,7 @@ namespace PracticaFinal.Web.Controllers
         }
 
         // GET: api/Reservas
+        
         [HttpGet]
         [Authorize(Roles = Roles.Admin)]
         public async Task<ActionResult<IEnumerable<Reserva>>> GetReservas()
@@ -32,6 +33,7 @@ namespace PracticaFinal.Web.Controllers
         }
 
         // GET: api/Reservas/ByMember
+        
         [HttpGet("ByMember/{id}")]
         [Authorize(Roles = Roles.Admin)]
         public async Task<ActionResult<IEnumerable<Reserva>>> GetReservasByMember(Guid id)
@@ -41,6 +43,7 @@ namespace PracticaFinal.Web.Controllers
         }
 
         // GET: api/Reservas/5
+        
         [HttpGet("{id}")]
         public async Task<ActionResult<Reserva>> GetReserva(Guid id)
         {
@@ -55,6 +58,7 @@ namespace PracticaFinal.Web.Controllers
         }
 
         // PUT: api/Reservas/5
+        
         [HttpPut]
         public async Task<IActionResult> PutReserva(Reserva reserva)
         {
@@ -85,6 +89,7 @@ namespace PracticaFinal.Web.Controllers
         }
 
         // POST: api/Reservas
+        
         [HttpPost]
         [Authorize]
         public async Task<ActionResult<Reserva>> PostReserva(Reserva reserva)
@@ -99,6 +104,7 @@ namespace PracticaFinal.Web.Controllers
         }
 
         // DELETE: api/Reservas/5
+        
         [HttpDelete("{id}")]
         [Authorize(Roles = "Admin")]
         public async Task<ActionResult<Reserva>> DeleteReserva(Guid id)
